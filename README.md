@@ -1,7 +1,7 @@
 # About
 Security PS's [Cyber Apprentice Program](https://www.securityps.com/cyber_apprentice.html) is designed to provide a pathway for individuals to obtain a cybersecurity penetration testing job in the Kansas City area. This resource helps candidates acquire key skills to qualify for the program. As you work through each learning track, document and demonstrate what you have learned through GitHub repositories and write ups. Security PS will use those artifacts as part of the interview process.
 
-If you are interested in participating in our program and you live in the Kansas City, Lawrence, or Topeka area, please visit our website and use the [Contact Us](https://www.securityps.com/contact.html) form to request more information.
+If you are interested in participating in our program and you live in the Kansas City, Lawrence, Topeka, or surrounding areas, please visit our website and use the [Contact Us](https://www.securityps.com/contact.html) form to request more information.
 
 # Learning Tracks
 ## Software Development Track
