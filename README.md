@@ -8,6 +8,7 @@ Security PS's [Cyber Apprentice Program](https://www.securityps.com/cyber_appren
 * Registration
 * Roles
 * User Administration
+
 As you work through each learning track, document and demonstrate what you have learned through GitHub repositories and write ups. Security PS will use those artifacts as part of the interview process.
 
 If you are interested in participating in our program and you live in the Kansas City, Lawrence, Topeka, or surrounding areas, please visit our website and use the [Contact Us](https://www.securityps.com/contact.html) form to request more information.
