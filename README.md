@@ -53,13 +53,13 @@ Consider learning to use Git and GitHub early on in the programming track so you
 
 ## Linux Track
 Learn Linux by installing it in a virtual machine such as Virtual Box or Hyper-V, and then try to use it. These tutorials can help, but using it is the best way to learn Linux. If you are unsure which distribution to choose, start with either Ubuntu or Kali Linux.
-2. [Linux Journey](https://linuxjourney.com)
-1. [TryHackMe: Linux Fundamentals](https://www.youtube.com/playlist?list=PL0iJrrpaWpyW9FQqI_TMJiuGpLJrXGVvA)
+1. [Linux Journey](https://linuxjourney.com)
+2. [TryHackMe: Linux Fundamentals](https://www.youtube.com/playlist?list=PL0iJrrpaWpyW9FQqI_TMJiuGpLJrXGVvA)
    * Try Their Free Course: [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
    * Try Their Free Course: [Linux Modules](https://tryhackme.com/room/linuxmodules)
-2. [Geek's Lessons: Linux Command Line Full course: Beginners to Experts. Bash Command Line Tutorials](https://www.youtube.com/watch?v=2PGnYjbYuUo&feature=youtu.be)
-3. [Linux for Ethical Hackers (Kali Linux Tutorial)](https://www.youtube.com/watch?v=lZAoFs75_cs&feature=youtu.be)
-4. [edureka!: Linux Administration Tutorial](https://www.youtube.com/playlist?app=desktop&list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik)
+3. [Geek's Lessons: Linux Command Line Full course: Beginners to Experts. Bash Command Line Tutorials](https://www.youtube.com/watch?v=2PGnYjbYuUo&feature=youtu.be)
+4. [Linux for Ethical Hackers (Kali Linux Tutorial)](https://www.youtube.com/watch?v=lZAoFs75_cs&feature=youtu.be)
+5. [edureka!: Linux Administration Tutorial](https://www.youtube.com/playlist?app=desktop&list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik)
 
 
 ## Computer Science Track and How Things Work
