@@ -53,6 +53,7 @@ Consider learning to use Git and GitHub early on in the programming track so you
 
 ## Linux Track
 Learn Linux by installing it in a virtual machine such as Virtual Box or Hyper-V, and then try to use it. These tutorials can help, but using it is the best way to learn Linux. If you are unsure which distribution to choose, start with either Ubuntu or Kali Linux.
+2. [Linux Journey](https://linuxjourney.com)
 1. [TryHackMe: Linux Fundamentals](https://www.youtube.com/playlist?list=PL0iJrrpaWpyW9FQqI_TMJiuGpLJrXGVvA)
    * Try Their Free Course: [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
    * Try Their Free Course: [Linux Modules](https://tryhackme.com/room/linuxmodules)
