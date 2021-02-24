@@ -1,4 +1,4 @@
-# About
+# Learning Materials for Security PS's Cyber Pre-Apprenticeship
 Security PS's [Cyber Apprentice Program](https://www.securityps.com/cyber_apprentice.html) is designed to provide a pathway for individuals to obtain a cybersecurity penetration testing job in the Kansas City area. This resource helps candidates acquire key skills to qualify for the program. Our program requires students to be able to build web applications, be familiar with using Linux, and have some foundational understanding of networking, HTTP, and security concepts. This resource is intended to help indviduals self-study these topics so they can qualify for the apprenticeship program. Of the tracks below, our top priority for students is software development. Your goal is to be able to build a web application that includes the following features:
 * Login with multiple steps. For Example, Username + Password and one of the following:
    * TOTP Token (like Google/Microsoft Authenticator)
