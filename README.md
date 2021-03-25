@@ -1,15 +1,17 @@
 # Learning Materials for Security PS's Cyber Security Pre-Apprenticeship
-Security PS's [Cyber Apprentice Program](https://www.securityps.com/cyber_apprentice.html) is designed to provide a pathway for individuals to obtain a cybersecurity penetration testing job in the Kansas City area. This resource helps candidates acquire key skills to qualify for the program. Our program requires students to be able to build web applications, be familiar with using Linux, and have some foundational understanding of networking, HTTP, and security concepts. This resource is intended to help indviduals self-study these topics so they can qualify for the apprenticeship program. Of the tracks below, our top priority for students is software development. Your goal is to be able to build a web application that includes the following features:
+Security PS's [Cyber Apprentice Program](https://www.securityps.com/cyber_apprentice.html) is designed to provide a pathway for individuals to obtain a cybersecurity penetration testing job in the Kansas City area. This resource helps candidates acquire key skills to qualify for the program. Our program requires students to be able to build web applications, be familiar with using Linux, and have some foundational understanding of networking, HTTP, and security concepts. This resource is intended to help indviduals self-study these topics so they can qualify for the apprenticeship program. Of the tracks below, our top priority for students is software development. Your goal is to be able to build a web application that includes the following features or requirements:
 * Login with multiple steps. For Example, Username + Password and one of the following:
    * TOTP Token (like Google/Microsoft Authenticator)
-   * Hardware Tokens (Like a Yubikey or Windows Hello)   * 
+   * Hardware Tokens (Like a Yubikey or Windows Hello)
    * Email or SMS based one-time tokens
-* Forgot Password
-* Registration
-* Roles
-* User Administration
+* Sends users an email through a Forgot Password feature to recover their account if they forget their password
+* Allow users to register for new accounts or implement features that let you invite users to create an account
+* User Administration including creating, deleting, and modifying users as well as assigning and managing roles, resetting passwords and their secondary login method
+* Use multiple roles and implement features that require different levels of authorization
+* "My Profile" feature that allows a user update his or her own personal information and password
+* Stores data in a SQL database
 
-As you work through each learning track, document and demonstrate what you have learned through GitHub repositories and write ups. Security PS will use those artifacts as part of the interview process.
+You can be creative in choosing the purpose for your application. If you need ideas, consider an HR portal, digital wallet, or peer-to-peer payment system. As you work through each learning track, document and demonstrate what you have learned through GitHub repositories and write ups. Security PS will use those artifacts as part of the interview process.
 
 If you are interested in participating in our program and you live in the Kansas City, Lawrence, Topeka, or surrounding areas, please visit our website and use the [Contact Us](https://www.securityps.com/contact.html) form to request more information.
 
