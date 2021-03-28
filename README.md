@@ -1,17 +1,17 @@
 # Learning Materials for Security PS's Cyber Security Pre-Apprenticeship
-Security PS's [Cyber Apprentice Program](https://www.securityps.com/cyber_apprentice.html) is designed to provide a pathway for individuals to obtain a cybersecurity penetration testing job at Security PS and its partners in the Kansas City area. This resource helps candidates acquire key skills to qualify for the program. Our program requires students to be able to build web applications, be familiar with using Linux, and have some foundational understanding of networking, HTTP, and security concepts. This resource is intended to help indviduals self-study these topics so they can qualify for the apprenticeship program. Of the tracks below, our top priority for students is software development. Your goal is to be able to build a web application that includes the following features:
+Security PS's [Cyber Apprentice Program](https://www.securityps.com/cyber_apprentice.html) is designed to provide a pathway for individuals to obtain a cybersecurity penetration testing job at Security PS and its partners in the Kansas City area. This resource helps candidates acquire key skills to qualify for the program. Our program requires students to be able to build web applications, be familiar with using Linux, and have some foundational understanding of networking, HTTP, and security concepts. This resource is intended to help individuals self-study these topics so they can qualify for the apprenticeship program. Of the tracks below, our top priority for students is software development. Your goal is to be able to build a web application that includes the following features:
 * Login process with multiple steps. For example, Username + Password and one of the following:
    * TOTP Token (like Google/Microsoft Authenticator)
    * Hardware Tokens (Like a Yubikey)
    * Email or SMS based one-time tokens
 * Forgot password process that allows users to recover their account if they forget the credentials or are locked out
-* Registration or user invitiation process that allows users to register for a new accounts or invites them to set up an account
+* Registration or user invitation process that allows users to register for a new accounts or invites them to set up an account
 * User Administration including creating, deleting, and modifying users as well as assigning and managing roles, resetting passwords and their secondary login factor
 * Features that require that require different levels of role-based or claims-based authorization controls
 * "My Profile" feature that allows a user update his or her own personal information, password, and secondary login factor
 
 The application must also satisfy the following technical requirements
-* Stores data in a database (SQL or NoSQL). Examples include SQLite, Microsoft SQL Server, Mysql, Postgres, and Mongodb
+* Stores data in a database (SQL or NoSQL). Examples include SQLite, Microsoft SQL Server, MySql, PostgreSQL, and MongoDB
 * Project hosted on GitHub, GitLab, or other public repository including instructions for cloning and running the web application locally
 * No secrets, encryption keys, or passwords stored in that repository*  
 
