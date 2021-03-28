@@ -9,14 +9,15 @@ Security PS's [Cyber Apprentice Program](https://www.securityps.com/cyber_appren
 * User Administration including creating, deleting, and modifying users as well as assigning and managing roles, resetting passwords and their secondary login factor
 * Features that require that require different levels of role-based or claims-based authorization controls
 * "My Profile" feature that allows a user update his or her own personal information, password, and secondary login factor
+
 The application must also satisfy the following technical requirements
 * Stores data in a database (SQL or NoSQL). Examples include SQLite, Microsoft SQL Server, Mysql, Postgres, and Mongodb
 * Project hosted on GitHub, GitLab, or other public repository including instructions for cloning and running the web application locally
 * No secrets, encryption keys, or passwords stored in that repository*  
 
-You can be creative in choosing the purpose for your application. If you need ideas, students in the past have built an HR portal, sports management application, online store, digital wallet, or peer-to-peer payment system. As you work through each learning track, document and demonstrate what you have learned through GitHub repositories and write ups. When applying for Security PS's Cyber Apprentice Program, Security PS will use the application you build and the artifacts you record as part of the learning process as part of the interview process.
+You can be creative in choosing the purpose for your application. If you need ideas, students in the past have built an HR portal, sports management application, online store, digital wallet, or peer-to-peer payment system. As you work through each learning track, document and demonstrate what you have learned through GitHub repositories and write ups. The Software Development Track below provides resources to learn to write such an application in Microsoft's ASP.NET Core, MVC framework or Node.js the React Framework. There are many other high quality languages and frameworks out there.
 
-If you are interested in participating in our program and you live in the Kansas City, Lawrence, Topeka, or surrounding areas, please visit our website and use the [Contact Us](https://www.securityps.com/contact.html) form to request more information.
+When applying for Security PS's Cyber Apprentice Program, Security PS will use the application you build and the artifacts you record as part of the learning process as part of the interview process. You can apply as a high school student, college student, or professional. If you are interested in participating in our program and you live in the Kansas City, Lawrence, Topeka, or surrounding areas, please visit our website and use the [Contact Us](https://www.securityps.com/contact.html) form to request more information.
 
 # Learning Tracks
 ## Software Development Track
